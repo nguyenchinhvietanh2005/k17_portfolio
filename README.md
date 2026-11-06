@@ -4,7 +4,9 @@
 Đây là hồ sơ học tập trực tuyến được làm bằng HTML5 và CSS3. Người xem có thể tìm hiểu kỹ năng đang học, các bài thực hành và cách liên hệ ngay trên một trang.
 
 ## Demo
-[Truy cập website](https://nguyenchinhvietanh2005.github.io/k17_portfolio/)
+https://nguyenchinhvietanh2005.github.io/k17_portfolio/
+
+Bấm URL trên để truy cập website.
 
 ## Tính năng hiện có
 - Năm mục điều hướng: Giới thiệu, Kỹ năng, Dự án, Học tập, Liên hệ.
